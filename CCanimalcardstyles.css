@@ -1,0 +1,45 @@
+h3 { 
+  font-style: bold; 
+  font-size: 21pt; 
+  text-align: center; 
+  font-family: "Trebuchet MS";
+  text-decoration: underline;
+}
+em {
+  font-family: "Arial";
+  font-size: 7pt;
+}
+li {
+  font-family: "Arial";
+  font-size: 8pt;
+}
+p {
+  font-family: "Trebuchet MS";
+  font-size: 10pt;
+ }
+html {background-color: #BDB76B
+}
+#mycard {
+    border: 3px solid #cccccc;
+    padding: 10px;
+    width: 300px;
+    box-shadow: 5px 5px rgba(119, 101, 0.3);
+  }
+#info {
+  margin: 0px;
+  padding 10px;
+  border: 1px solid rgb(245, 245, 220);
+}
+#animalname {
+  margin: 0px;
+  height: 70px;
+  padding 10px;
+  border: 1px solid rgb(245, 245, 220);
+}
+#picborder {height: 200px;
+  width: 300px;
+  margin: 0px;
+  padding 10px;
+  border: 2px solid rgb(245, 245, 220);
+}
+ul {list-style: none;}
